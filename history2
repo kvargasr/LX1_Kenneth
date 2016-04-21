@@ -1,0 +1,57 @@
+    1  tree
+    2  sudo apt-get install tree
+    3  sudo apt-get install mysql-server
+    4  sudo apt-get install apache2
+    5  tree
+    6  cd Documents/
+    7  ls -la
+    8  cd
+    9  ip -4 addr
+   10  mkdir history
+   11  mkdir LAMP
+   12  tree
+   13  cd history/
+   14  mkdir history-clases
+   15  mkdir history_root-srvKenn
+   16  mkdir history_sysadmin-srvKenn
+   17  mkmkdir mysql_history-srvkenn
+   18  mkdir mysql_history-srvkenn
+   19  tree
+   20  cd /
+   21  cd LX1
+   22  cd LX1_Kenneth.vargasr
+   23  tree
+   24  mkdir LX1_Kenneth.vargasr
+   25  mkdir history
+   26  mkdir LAMP
+   27  cd 
+   28  sudo cd .bash_history/
+   29  sudo cd /.bash_history
+   30  history 
+   31  cd LX1_Kenneth.vargasr/
+   32  git init
+   33  git add history/
+   34  history > history
+   35  cat history > history
+   36  git commit "git"
+   37  git commit -m  "git"
+   38  git config --global user.email "kenneth-var@live.com"
+   39  git config --global user.name  "kenneth"
+   40  git commit -m  "git"
+   41  git remote add git https://github.com/kvargasr/LX1_Kenneth.git
+   42  git push -u git master
+   43  ls -la
+   44  history >> history
+   45  cat < ejemplo2.txt >> ejemplo.txt
+   46  cat < history >> history.txt
+   47  git add history2
+   48  git add history2/
+   49  git status
+   50  git push -u git master
+   51  git status
+   52  git add history/
+   53  git commit -m "j"
+   54  sudo apt-get install git
+   55  git push -u repo.github master
+   56  git push -u git master
+   57  history > history2
